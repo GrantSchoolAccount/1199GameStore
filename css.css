@@ -37,4 +37,8 @@ p.employees {
 	color: #9DE6A1;
 }
 
+.important {
+    background-color: red;
+}
+
 </style>			
