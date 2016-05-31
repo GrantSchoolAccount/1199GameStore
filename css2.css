@@ -36,10 +36,14 @@ li a:hover {
 p {
     color: #9DE6A1;
     font-size: 20;
+    float: left;
+    padding-left: 60px;
 }
 
 p.title {
     color: #D99A42;
     font-size: 30;
+    float: left;
+    padding-left: 30px;
 }
 </style>
